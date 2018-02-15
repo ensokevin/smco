@@ -1163,8 +1163,8 @@ figcaption {
 }
 
 .slide-2 {
-  background-image: -webkit-linear-gradient(270deg, hsla(0, 0%, 100%, 0), rgba(0, 0, 0, .3)), url('../images/cc_tout.jpg');
-  background-image: linear-gradient(180deg, hsla(0, 0%, 100%, 0), rgba(0, 0, 0, .3)), url('../images/cc_tout.jpg');
+  background-image: -webkit-linear-gradient(270deg, hsla(0, 0%, 100%, 0), rgba(0, 0, 0, .3)), url('http://uploads.webflow.com/5a4e88059729b60001971faf/5a7e2cfed2e04c0001f3dc2b_cc_tout.jpg');
+  background-image: linear-gradient(180deg, hsla(0, 0%, 100%, 0), rgba(0, 0, 0, .3)), url('http://uploads.webflow.com/5a4e88059729b60001971faf/5a7e2cfed2e04c0001f3dc2b_cc_tout.jpg');
   background-position: 0px 0px, 50% 50%;
   background-size: auto, cover;
 }

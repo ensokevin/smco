@@ -1021,6 +1021,9 @@ figcaption {
   width: 60px;
   height: 60px;
   margin: 20px 20px 20px 0px;
+  background-image: url('http://uploads.webflow.com/5a4e88059729b60001971faf/5a7ddf948ee52d00010a4d91_header_tick_03_tan.svg');
+  background-position: 50% 50%;
+  background-size: cover;
 }
 
 .a-h1-tick.large-tick {
@@ -1029,6 +1032,30 @@ figcaption {
   width: 46px;
   height: 46px;
   margin-bottom: 0px;
+}
+
+.a-h1-tick.large-tick.a-principles-tick {
+  background-image: url('http://uploads.webflow.com/5a4e88059729b60001971faf/5a7ddf94214ab6000146d8a0_header_tick_02_red.svg');
+  background-position: 50% 50%;
+  background-size: cover;
+}
+
+.a-h1-tick.large-tick.a-impact-tick {
+  background-image: url('http://uploads.webflow.com/5a4e88059729b60001971faf/5a7ddf94bc0c8000010fa29d_header_tick_03_red.svg');
+  background-position: 50% 50%;
+  background-size: cover;
+}
+
+.a-h1-tick.large-tick.a-missions-tick {
+  background-image: url('http://uploads.webflow.com/5a4e88059729b60001971faf/5a7ddf94214ab6000146d8a0_header_tick_02_red.svg');
+  background-position: 50% 50%;
+  background-size: cover;
+}
+
+.a-h1-tick.large-tick.a-toolkit-tick {
+  background-image: url('http://uploads.webflow.com/5a4e88059729b60001971faf/5a7ddf94173529000138821f_header_tick_02_tan.svg');
+  background-position: 50% 50%;
+  background-size: cover;
 }
 
 .a-h1 {
@@ -1776,7 +1803,7 @@ figcaption {
 }
 
 .a-missions-current-img.a-climate {
-  background-image: url('http://uploads.webflow.com/5a4e88059729b60001971faf/5a7e2cf8ee248c000137c3f3_cc_mission_02.jpg');
+  background-image: url('http://uploads.webflow.com/5a4e88059729b60001971faf/5a7117e3b54d35000194ab39_mission_02.jpg');
 }
 
 .a-missions-current-img.a-commongoal {
@@ -2023,6 +2050,33 @@ figcaption {
   overflow: hidden;
   width: 100%;
   height: 100%;
+  background-image: url('http://uploads.webflow.com/5a4e88059729b60001971faf/5a7ddc908ee52d00010a4974_pattern_tan_03.svg');
+  background-position: 50% 50%;
+  background-size: cover;
+}
+
+.a-missions-current-ticks.a-missions-atlantis {
+  background-image: url('http://uploads.webflow.com/5a4e88059729b60001971faf/5a7ddc9062eb3a0001b9c836_pattern_tan_01.svg');
+  background-position: 50% 50%;
+  background-size: cover;
+}
+
+.a-missions-current-ticks.a-missions-climate {
+  background-image: url('http://uploads.webflow.com/5a4e88059729b60001971faf/5a7ddc8f214ab6000146d6af_pattern_red_01.svg');
+  background-position: 50% 50%;
+  background-size: cover;
+}
+
+.a-missions-current-ticks.a-missions-commongoal {
+  background-image: url('http://uploads.webflow.com/5a4e88059729b60001971faf/5a7ddc90214ab6000146d6b0_pattern_tan_02.svg');
+  background-position: 50% 50%;
+  background-size: cover;
+}
+
+.a-missions-current-ticks.a-missions-literacy {
+  background-image: url('https://uploads-ssl.webflow.com/5a4e88059729b60001971faf/5a7ddc9062eb3a0001b9c835_pattern_red_02.svg');
+  background-position: 50% 50%;
+  background-size: cover;
 }
 
 .a-contact-label {

@@ -1,5 +1,3 @@
-/*WHT on COL*/
-
 body {
   font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;
   color: #333;
@@ -876,7 +874,7 @@ figcaption {
 .a-contact-pattern-img-container {
   width: 100%;
   height: 100%;
-  background-image: url('http://uploads.webflow.com/5a4e88059729b60001971faf/5a85b88896366500012d0cc3_contact_pattern_cyan_01.svg');
+  background-image: url('http://uploads.webflow.com/5a4e88059729b60001971faf/5a7ddf94214ab6000146d8a1_contact_pattern_red_01.svg');
   background-position: 0px 0px;
   background-size: contain;
 }
@@ -1023,9 +1021,6 @@ figcaption {
   width: 60px;
   height: 60px;
   margin: 20px 20px 20px 0px;
-  background-image: url('http://uploads.webflow.com/5a4e88059729b60001971faf/5a85b888b4131c0001802131_header_tick_03_cyan.svg');
-  background-position: 50% 50%;
-  background-size: cover;
 }
 
 .a-h1-tick.large-tick {
@@ -1034,30 +1029,6 @@ figcaption {
   width: 46px;
   height: 46px;
   margin-bottom: 0px;
-}
-
-.a-h1-tick.large-tick.a-principles-tick {
-  background-image: url('http://uploads.webflow.com/5a4e88059729b60001971faf/5a85b888b4131c0001802131_header_tick_03_cyan.svg');
-  background-position: 50% 50%;
-  background-size: cover;
-}
-
-.a-h1-tick.large-tick.a-impact-tick {
-  background-image: url('http://upload.webflow.com/5a4e88059729b60001971faf/5a85b803b4131c000180205d_header_tick_02_blue.svg');
-  background-position: 50% 50%;
-  background-size: cover;
-}
-
-.a-h1-tick.large-tick.a-missions-tick {
-  background-image: url('http://upload.webflow.com/5a4e88059729b60001971faf/5a85b803b4131c000180205d_header_tick_02_blue.svg');
-  background-position: 50% 50%;
-  background-size: cover;
-}
-
-.a-h1-tick.large-tick.a-toolkit-tick {
-  background-image: url('http://upload.webflow.com/5a4e88059729b60001971faf/5a85b803b4131c000180205d_header_tick_02_blue.svg');
-  background-position: 50% 50%;
-  background-size: cover;
 }
 
 .a-h1 {
@@ -1083,10 +1054,6 @@ figcaption {
 }
 
 .a-h1.h1-body.a-h1-white {
-  color: #fff;
-}
-
-.a-h1.h1-body.a-h1-color {
   color: #fff;
 }
 
@@ -1208,7 +1175,7 @@ figcaption {
   display: none;
   width: 100%;
   height: 100vh;
-  background-image: url('http://uploads.webflow.com/5a4e88059729b60001971faf/5a85b888a074bc0001cb75f0_pattern_cyan_01.svg');
+  background-image: url('http://uploads.webflow.com/5a4e88059729b60001971faf/5a53f626231ceb0001908cb3_pattern_zoom_color1.svg');
   background-position: 50% 50%;
   background-size: 130%;
 }
@@ -1417,10 +1384,6 @@ figcaption {
   padding-left: 0px;
 }
 
-.a-col-content.a-col-color {
-  color: #fff;
-}
-
 .a-col-h1 {
   font-family: Moderat, sans-serif;
   font-size: 24px;
@@ -1568,7 +1531,7 @@ figcaption {
   display: flex;
   width: 100%;
   height: 100%;
-  background-image: url('http://uploads.webflow.com/5a4e88059729b60001971faf/5a85b8035a5acf00011e84e4_pattern_blue_01.svg');
+  background-image: url('http://uploads.webflow.com/5a4e88059729b60001971faf/5a7ddc8f214ab6000146d6af_pattern_red_01.svg');
   background-position: 50% 50%;
   background-size: 278%;
 }
@@ -1813,7 +1776,7 @@ figcaption {
 }
 
 .a-missions-current-img.a-climate {
-  background-image: url('http://uploads.webflow.com/5a4e88059729b60001971faf/5a7117e3b54d35000194ab39_mission_02.jpg');
+  background-image: url('http://uploads.webflow.com/5a4e88059729b60001971faf/5a7e2cf8ee248c000137c3f3_cc_mission_02.jpg');
 }
 
 .a-missions-current-img.a-commongoal {
@@ -2060,33 +2023,6 @@ figcaption {
   overflow: hidden;
   width: 100%;
   height: 100%;
-  background-image: url('http://uploads.webflow.com/5a4e88059729b60001971faf/5a85b8885a5acf00011e8552_pattern_cyan_03.svg');
-  background-position: 50% 50%;
-  background-size: cover;
-}
-
-.a-missions-current-ticks.a-missions-atlantis {
-  background-image: url('http://uploads.webflow.com/5a4e88059729b60001971faf/5a85b888a074bc0001cb75f0_pattern_cyan_01.svg');
-  background-position: 50% 50%;
-  background-size: cover;
-}
-
-.a-missions-current-ticks.a-missions-climate {
-  background-image: url('http://uploads.webflow.com/5a4e88059729b60001971faf/5a85b8035a5acf00011e84e4_pattern_blue_01.svg');
-  background-position: 50% 50%;
-  background-size: cover;
-}
-
-.a-missions-current-ticks.a-missions-commongoal {
-  background-image: url('http://uploads.webflow.com/5a4e88059729b60001971faf/5a85b888b4131c0001802132_pattern_cyan_02.svg');
-  background-position: 50% 50%;
-  background-size: cover;
-}
-
-.a-missions-current-ticks.a-missions-literacy {
-  background-image: url('http://uploads.webflow.com/5a4e88059729b60001971faf/5a85b8035a5acf00011e84e3_pattern_blue_02.svg');
-  background-position: 50% 50%;
-  background-size: cover;
 }
 
 .a-contact-label {
@@ -2158,7 +2094,7 @@ figcaption {
   display: none;
   width: 100%;
   height: 100%;
-  background-image: url('http://uploads.webflow.com/5a4e88059729b60001971faf/5a85b8885a5acf00011e8552_pattern_cyan_03.svg');
+  background-image: url('http://uploads.webflow.com/5a4e88059729b60001971faf/5a53f626231ceb0001908cb3_pattern_zoom_color1.svg');
   background-position: 50% 50%;
   background-size: 278%;
 }
@@ -2172,7 +2108,7 @@ figcaption {
   display: none;
   width: 100%;
   height: 100%;
-  background-image: url('http://uploads.webflow.com/5a4e88059729b60001971faf/5a85b8885a5acf00011e8552_pattern_cyan_03.svg');
+  background-image: url('http://uploads.webflow.com/5a4e88059729b60001971faf/5a53f626231ceb0001908cb3_pattern_zoom_color1.svg');
   background-position: 50% 50%;
   background-size: 278%;
 }
@@ -2424,7 +2360,7 @@ html.w-mod-js *[data-ix="scale-on-scroll"] {
   }
   .a-contact-content {
     width: 100%;
-    background-image: url('https://uploads-ssl.webflow.com/5a4e88059729b60001971faf/5a85b88896366500012d0cc3_contact_pattern_cyan_01.svg');
+    background-image: url('http://uploads.webflow.com/5a4e88059729b60001971faf/5a67cd8599424f0001efded2_contact_pattern_01.svg');
     background-position: 50% 50%;
     background-size: cover;
   }
