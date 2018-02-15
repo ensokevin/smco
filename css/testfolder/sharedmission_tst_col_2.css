@@ -1043,7 +1043,7 @@ figcaption {
 }
 
 .a-h1-tick.large-tick.a-impact-tick {
-  background-image: url('http://uploads.webflow.com/5a4e88059729b60001971faf/5a85b803b4131c000180205d_header_tick_02_blue.svg');
+  background-image: url('http://uploads.webflow.com/5a4e88059729b60001971faf/5a85b888b4131c0001802131_header_tick_03_cyan.svg');
   background-position: 50% 50%;
   background-size: cover;
 }
@@ -1118,7 +1118,7 @@ figcaption {
 .a-p.medium.p-body.light {
   -webkit-transition: opacity 200ms ease;
   transition: opacity 200ms ease;
-  color: #fff;
+  color: #333;
 }
 
 .a-p.medium.p-body.p-overview {
@@ -1983,7 +1983,7 @@ figcaption {
   background-color: #2C67FA;
   -webkit-transition: background-color 400ms ease;
   transition: background-color 400ms ease;
-  color: #333;
+  color: #fff;
   font-size: 16px;
   line-height: 30px;
 }
@@ -2066,25 +2066,25 @@ figcaption {
 }
 
 .a-missions-current-ticks.a-missions-atlantis {
-  background-image: url('http://uploads.webflow.com/5a4e88059729b60001971faf/5a85b888a074bc0001cb75f0_pattern_cyan_01.svg');
-  background-position: 50% 50%;
-  background-size: cover;
-}
-
-.a-missions-current-ticks.a-missions-climate {
   background-image: url('http://uploads.webflow.com/5a4e88059729b60001971faf/5a85b8035a5acf00011e84e4_pattern_blue_01.svg');
   background-position: 50% 50%;
   background-size: cover;
 }
 
+.a-missions-current-ticks.a-missions-climate {
+  background-image: url('http://uploads.webflow.com/5a4e88059729b60001971faf/5a85b888a074bc0001cb75f0_pattern_cyan_01.svg');
+  background-position: 50% 50%;
+  background-size: cover;
+}
+
 .a-missions-current-ticks.a-missions-commongoal {
-  background-image: url('http://uploads.webflow.com/5a4e88059729b60001971faf/5a85b888b4131c0001802132_pattern_cyan_02.svg');
+  background-image: url('http://uploads.webflow.com/5a4e88059729b60001971faf/5a85b8035a5acf00011e84e3_pattern_blue_02.svg');
   background-position: 50% 50%;
   background-size: cover;
 }
 
 .a-missions-current-ticks.a-missions-literacy {
-  background-image: url('http://uploads.webflow.com/5a4e88059729b60001971faf/5a85b8035a5acf00011e84e3_pattern_blue_02.svg');
+  background-image: url('http://uploads.webflow.com/5a4e88059729b60001971faf/5a85b888b4131c0001802132_pattern_cyan_02.svg');
   background-position: 50% 50%;
   background-size: cover;
 }
