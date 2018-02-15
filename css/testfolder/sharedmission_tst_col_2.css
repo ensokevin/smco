@@ -815,13 +815,14 @@ figcaption {
   background-color: #31F5F9;
   -webkit-transition: background-color 400ms ease;
   transition: background-color 400ms ease;
-  color: #fff;
+  color: #333;
   font-size: 14px;
   letter-spacing: 1px;
 }
 
 .a-nl-emailsub:hover {
   background-color: #2C67FA;
+  color: #fff;
 }
 
 .a-newsletter-cta-h1 {
@@ -955,11 +956,12 @@ figcaption {
   background-color: #2C67FA;
   -webkit-transition: background-color 400ms ease;
   transition: background-color 400ms ease;
-  color: #333;
+  color: #fff;
 }
 
 .submit-button.a-contact-btn:hover {
   background-color: #31F5F9;
+  color: #333;
 }
 
 .a-contact-messageform {
@@ -1049,7 +1051,7 @@ figcaption {
 }
 
 .a-h1-tick.large-tick.a-missions-tick {
-  background-image: url('http://uploads-ssl.webflow.com/5a4e88059729b60001971faf/5a85b803b4131c000180205d_header_tick_02_blue.svg');
+  background-image: url('http://uploads.webflow.com/5a4e88059729b60001971faf/5a85b803b4131c000180205d_header_tick_02_blue.svg');
   background-position: 50% 50%;
   background-size: cover;
 }
@@ -1073,7 +1075,7 @@ figcaption {
 }
 
 .a-h1.h1-body.light {
-  color: #fff;
+  color: #333;
 }
 
 .a-h1.h1-body.typed.a-h1-quote {
